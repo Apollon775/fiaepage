@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lebenslauf Kim Sator</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+        <div id="paper">
+            <h1>Max Mustermann</h1>
+            <h2 class="sub-headline">
+                Software-Entwickler
+            </h2>
+            <table class="introduction">
+                <tr>
+                    <td class="left"><img src="foto.png" alt="Max Mustermann"></td>
+                    <td class="right"><h2>Hallo, ich bin Kim Sator</h2>
+                        <ul>
+                            <li>Software-Entwickler aus Leidenschaft</li>
+                            <li>Profi im Umgang mit Java, C/C++ und PHP</li>
+                            <li>Spezialist für MySQL- und Access-Datenbanken</li>
+                            <li>Geübt im Umgang mit Windows, Linux und MacOS</li>
+                            <li>Erfahren im Projektmanagement</li>
+                            <li>Freund innovativer Ideen und neuer Wege</li>
+                        </ul></td>
+                </tr>
+            </table>
+            <div id="beruflicher-werdegang" class="category">
+                <h2>
+                    Beruflicher Werdegang
+                </h2>
+                <table>
+                    <tr class="station">
+                        <td class="left">09/2009 - heute</td>
+                        <td class="right">Musterstelle</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Musterfirma GmbH & Co. KG, 12345 Musterstadt</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">
+                            <ul>
+                                <li>Kurzbeschreibung Tätigkeit 1</li>
+                                <li>Kurzbeschreibung Tätigkeit 2</li>
+                                <li>Kurzbeschreibung Tätigkeit 3</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+                <table>
+                    <tr class="station">
+                        <td class="left">07/2000 - 08/2009</td>
+                        <td class="right">Musterstelle</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Musterfirma GmbH & Co. KG, 12345 Musterstadt</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">
+                            <ul>
+                                <li>Kurzbeschreibung Tätigkeit 1</li>
+                                <li>Kurzbeschreibung Tätigkeit 2</li>
+                                <li>Kurzbeschreibung Tätigkeit 3</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="ausbildung" class="category">
+                <h2>
+                    Ausbildung
+                </h2>
+                <table>
+                    <tr class="station">
+                        <td class="left">09/1996 - 06/2000</td>
+                        <td class="right">Musterstudium</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Musterhochschule, 12345 Musterstadt</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Studienschwerpunkte: Schwerpunkt 1,Schwerpunkt 2</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Thesis-Thema: Musterthema</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Abschluss: Musterabschluss</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Abschlussnote: 1,0</td>
+                    </tr>
+                </table>
+                <table>
+                    <tr class="station">
+                        <td class="left">09/1993 - 06/1996</td>
+                        <td class="right">Ausbildung zum Musterberuf</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Musterfirma GmbH, 12345 Musterstadt</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Ausbildungsschwerpunkte: Schwerpunkt 1, Schwerpunkt 2</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Abschluss: Musterabschluss</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Abschlussnote: 1,0</td>
+                    </tr>
+                </table>
+                <table>
+                    <tr class="station">
+                        <td class="left">09/1986 - 06/1993</td>
+                        <td class="right">Abitur</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Mustergymnasium, 12345 Musterstadt</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Abschluss: Abitur</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">Abschlussnote: 1,0</td>
+                    </tr>
+                </table>
+            </div>
+            <div id="kenntnisse" class="category">
+                <h2>
+                    Kenntnisse
+                </h2>
+                <table>
+                    <tr>
+                        <td class="left">EDV-Kenntnisse</td>
+                        <td class="right">Microsoft Office 2010 (fortgeschritten)</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">HTML & CSS (gut)</td>
+                    </tr>
+                    <tr>
+                        <td class="left"></td>
+                        <td class="right">JAVA (fortgeschritten)</td>
+                    </tr>
+                    <tr>
+                        <td class="left">Sprachkenntnisse</td>
+                        <td class="right">Englisch (fließend)</td>
+                    </tr>
+                    <tr>
+                        <td class="left">Führerschein</td>
+                        <td class="right">Klasse B</td>
+                    </tr>
+                </table>
+            </div>
+            <div id="interessen" class="category">
+                <h2>
+                    Interessen
+                </h2>
+                <table>
+                    <tr>
+                        <td class="left">Ehrenamtl. Engagement</td>
+                        <td class="right">Jugendleiter Abteilung Basketball, Musterverein</td>
+                    </tr>
+                    <tr>
+                        <td class="left">Hobbys</td>
+                        <td class="right">Entwicklung von Webseiten, Basketball, Astronomie, Reisen</td>
+                    </tr>
+                </table>
+            </div>
+            <div id="kontakt" class="category">
+                <h2>
+                    Kontakt
+                </h2>
+                <table>
+                    <tr>
+                        <td class="left">Adresse</td>
+                        <td class="right">Musterstraße 1,12345 Musterstadt</td>
+                    </tr>
+                    <tr>
+                        <td class="left">E-Mail</td>
+                        <td class="right">info@tabellarischer-lebenslauf.net</td>
+                    </tr>
+                    <tr>
+                        <td class="left">Telefon</td>
+                        <td class="right">01234 567890</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div id="navigation">
+            <div id="navpoints">
+                <ul>
+                    <li class="haschilds"><strong>Lebenslauf-Navigation &or;</strong>
+                        <ul class="navchilds">
+                            <li><a href="#beruflicher-werdegang">Beruflicher Werdegang</a></li>
+                            <li><a href="#ausbildung">Ausbildung</a></li>
+                            <li><a href="#kenntnisse">Kenntnisse</a></li>
+                            <li><a href="#interessen">Interessen</a></li>
+                            <li><a href="#kontakt">Kontakt</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
+body{
+    font-family: Arial, Sans-Serif;
+    font-size: 0.8em;
+    background-color: whitesmoke;
+}
+
+#paper{
+    max-width: 700px;
+    margin-top: 6em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+    -moz-box-shadow: 0 0 4px #000000;
+    -webkit-box-shadow: 0 0 4px #000000;
+    box-shadow: 0 0 4px #000000;
+    padding: 4em;
+}
+
+#navigation{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: whitesmoke;
+    -moz-box-shadow: 0 0 4px #000000;
+    -webkit-box-shadow: 0 0 4px #000000;
+    box-shadow: 0 0 4px #000000;
+}
+
+#navpoints{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    max-width: 700px;
+}
+
+#navpoints ul{
+    margin: 0;
+    padding: 0;
+}
+
+#navpoints ul li{
+    display: block;
+    padding: 0.5em 0;
+}
+
+#navpoints ul li.haschilds ul{
+    display: none;
+    visibility: hidden;
+}
+
+#navpoints ul li.haschilds:hover > ul{
+    display: block;
+    visibility: visible;
+}
+
+#navigation ul li a, #navpoints ul.haschilds li a{
+    text-decoration: none;
+    color: #000;
+    font-style: italic;
+}
+
+#navigation ul li ul.navchilds{
+    margin-top: 0.6em;
+}
+
+#navigation ul li ul.navchilds li{
+    margin-left: 0;
+}
+
+h1{
+    font-size: 3em;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0.4em;
+    color: #990000;
+}
+
+h2.sub-headline{
+    color: #000;
+}
+
+h2{
+    font-size: 1.2em;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1.4em;
+    color: #990000;
+}
+
+div.category{
+    margin-bottom: 1.4em;
+}
+
+table{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1.4em;
+}
+
+table.introduction {
+    background-color: whitesmoke;
+    border: 1px solid #cccccc;
+    margin-bottom: 2.4em;
+    padding: 0;
+}
+
+table.introduction h2{
+    color: #000;
+}
+
+table.introduction tr td.left, table.introduction tr td.right{
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+
+table.introduction tr td.right{
+    vertical-align: top;
+    margin: 0;
+    padding-left: 2em;
+}
+
+table tr{
+    margin: 0;
+    padding: 0;
+}
+
+table tr.station{
+    font-weight: bold;
+}
+
+table tr td{
+    padding-left: 0;
+}
+
+table tr td.left{
+    width: 33%;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+table tr td.left img{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+table tr td.right, table.introduction tr td.right{
+    width: 66%;
+    vertical-align: top;
+    padding-left: 2em;
+}
+
+@media only screen and (max-width: 767px){
+    body{
+        font-size: 0.8em;
+    }
+}
